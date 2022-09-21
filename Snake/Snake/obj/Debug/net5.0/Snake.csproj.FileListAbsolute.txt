@@ -1,0 +1,16 @@
+D:\Курсы\C# Professional\Home Work\Snake_game\Snake\Snake\bin\Debug\net5.0\Snake.exe
+D:\Курсы\C# Professional\Home Work\Snake_game\Snake\Snake\bin\Debug\net5.0\Snake.deps.json
+D:\Курсы\C# Professional\Home Work\Snake_game\Snake\Snake\bin\Debug\net5.0\Snake.runtimeconfig.json
+D:\Курсы\C# Professional\Home Work\Snake_game\Snake\Snake\bin\Debug\net5.0\Snake.runtimeconfig.dev.json
+D:\Курсы\C# Professional\Home Work\Snake_game\Snake\Snake\bin\Debug\net5.0\Snake.dll
+D:\Курсы\C# Professional\Home Work\Snake_game\Snake\Snake\bin\Debug\net5.0\Snake.pdb
+D:\Курсы\C# Professional\Home Work\Snake_game\Snake\Snake\obj\Debug\net5.0\Snake.csproj.AssemblyReference.cache
+D:\Курсы\C# Professional\Home Work\Snake_game\Snake\Snake\obj\Debug\net5.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы\C# Professional\Home Work\Snake_game\Snake\Snake\obj\Debug\net5.0\Snake.AssemblyInfoInputs.cache
+D:\Курсы\C# Professional\Home Work\Snake_game\Snake\Snake\obj\Debug\net5.0\Snake.AssemblyInfo.cs
+D:\Курсы\C# Professional\Home Work\Snake_game\Snake\Snake\obj\Debug\net5.0\Snake.csproj.CoreCompileInputs.cache
+D:\Курсы\C# Professional\Home Work\Snake_game\Snake\Snake\obj\Debug\net5.0\Snake.dll
+D:\Курсы\C# Professional\Home Work\Snake_game\Snake\Snake\obj\Debug\net5.0\ref\Snake.dll
+D:\Курсы\C# Professional\Home Work\Snake_game\Snake\Snake\obj\Debug\net5.0\Snake.pdb
+D:\Курсы\C# Professional\Home Work\Snake_game\Snake\Snake\obj\Debug\net5.0\Snake.genruntimeconfig.cache
+D:\Курсы\C# Professional\Home Work\Snake_game\Snake\Snake\obj\Debug\net5.0\refint\Snake.dll
