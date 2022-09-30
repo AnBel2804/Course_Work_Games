@@ -87,7 +87,7 @@ namespace Space_Invaders
                 if(rocket.game_Object_Place.Y == 1)
                     _space.rockets.RemoveAt(i);
                 rocket.game_Object_Place.Y--;
-                for (int j = 0; j < _space.rockets.Count; j++)
+                for (int j = 0; j < _space.aliens.Count; j++)
                 {
                     Game_object alien = _space.aliens[j];
                     if (rocket.game_Object_Place.Equals(alien.game_Object_Place))
